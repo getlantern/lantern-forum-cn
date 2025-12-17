@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Submit a helpdesk ticket for Support
+    url: https://support.lantern.io/en/support/tickets/new
+    about: Our support team can help with any account or client issues. 
