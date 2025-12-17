@@ -1,5 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: Submit a helpdesk ticket for Support
+  - name: 报告问题
     url: https://support.lantern.io/en/support/tickets/new
-    about: Our support team can help with any account or client issues. 
+    about: 我们很快将要停止使用论坛或者Issues回答问题 - 如果您有问题的话，请点击这里报告问题。
