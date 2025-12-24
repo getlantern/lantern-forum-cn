@@ -1,11 +1,12 @@
 blank_issues_enabled: false
-github_issues:
-  - name: 我们已停止使用论坛或者Issues回答问题。
-    url: https://github.com/getlantern/lantern-forum-cn/discussions/1540
 
-ticket:
-  - name: 提交工单
+contact_links:
+  - name: "⚠️ 我们已停止使用论坛或 Issues 回答问题"
+    url: https://github.com/getlantern/lantern-forum-cn/discussions/1540
+    about: "关于停止服务的详细说明，请点击此链接查看。"
+
+  - name: "📩 提交工单 (Submit a Ticket)"
     url: https://support.lantern.io/en/support/tickets/new
     about: |
-    点击这里使用工单系统提交问题。
-    推荐：客户端内的“支持>报告问题“提交工单，这样我们能看到诊断报告。
+      点击这里使用工单系统提交问题。
+      推荐：使用客户端内的“支持 > 报告问题”提交，这样我们能同步收到诊断报告。
