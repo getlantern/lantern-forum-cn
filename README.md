@@ -17,7 +17,7 @@
 
 ## 其他方式联系我们
 - Twitter/X: [@getlantern_CN](https://x.com/getlantern_CN)
-- Telegram: [@lantern_china](t.me/lantern_china)
+- Telegram: [@lantern_china](https://t.me/lantern_china)
 
 ## 其他语言的论坛 / Other Languages
 
