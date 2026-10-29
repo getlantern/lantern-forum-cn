@@ -15,6 +15,10 @@
 - 如果不是特别忙，我们也会在论坛上参与讨论。
 - 大家也可以随便说说关于Lantern、机场、VPN等等的体验。请尊重彼此，并遵循[行为守则](https://github.com/getlantern/lantern-forum-en/blob/main/conduct.md)。
 
+## 其他方式联系我们
+- Twitter/X: [@getlantern_CN](https://x.com/getlantern_CN)
+- Telegram: [@lantern_china](t.me/lantern_china)
+
 ## 其他语言的论坛 / Other Languages
 
 - [English](https://github.com/getlantern/lantern-forum-en/discussions)
